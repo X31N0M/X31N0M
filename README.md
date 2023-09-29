@@ -1,4 +1,4 @@
-### Hi there 👋, Rajesh Prasad
+### Hi there 👋, 
 #### Cyber security enthusiast
 Greetings! I'm Rajesh Prasad, a passionate cybersecurity enthusiast with an insatiable desire to secure the digital domain. My interest in cybersecurity began with a desire to comprehend the complicated dance between attackers and defenders in the wide terrain of internet.
 
